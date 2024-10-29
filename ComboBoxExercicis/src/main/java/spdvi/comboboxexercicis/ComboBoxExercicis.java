@@ -16,8 +16,8 @@ import spdvi.fitnesscasesnoves.dto.Intents;
  */
 public class ComboBoxExercicis extends javax.swing.JFrame {
 
-    int id;
-    ArrayList<Exercicis> nombresEjercicios;
+    private int id;
+    private ArrayList<Exercicis> nombresEjercicios;
 
     /**
      * Creates new form ProbaComboBox
